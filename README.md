@@ -32,34 +32,34 @@ Python 3.8
 Download ["dataset"](https://stuxmueducn-my.sharepoint.com/:u:/g/personal/liutao2676_stu_xmu_edu_cn/EZdjTOlPfjZBhhFJVbqj524BYtp0Z-IMYk13OQGAEd-FOA?e=wAcl9b), project organize as follows:
 
     .
-    ├── ANDI\
-    ├── dataset\
-        ├── Aminer-na\
-        │   ├── processed_data\
-        │   │   └── rel-embs\
+    ├── ANDI/
+    ├── dataset/
+        ├── Aminer-na/
+        │   ├── processed_data/
+        │   │   └── rel-embs/
         │   ├── valid_author.json
         │   ├── valid_pub.json
         │   ├── train_author.json
         │   └── train_pub.json
-        ├── Aminer-v3\
-        │   ├── processed_data\
+        ├── Aminer-v3/
+        │   ├── processed_data/
         │   ├── test_author.json
         │   ├── test_pub.json
         │   ├── valid_author.json
         │   ├── valid_pub.json
         │   ├── train_author.json
         │   └── train_pub.json
-        ├── CiteSeerX\
+        ├── CiteSeerX/
         │   ├── train_author.json
         │   └── train_pub.json
-        └── data\
-            ├── gene\
-            │   ├── Aminer-na\
-            │   ├── Aminer-v3\
-            │   └── CiteSeerX\
-            ├── na\
-            ├── v3\
-            └── x\
+        └── data/
+            ├── gene/
+            │   ├── Aminer-na/
+            │   ├── Aminer-v3/
+            │   └── CiteSeerX/
+            ├── na/
+            ├── v3/
+            └── x/
 
 data processing:
 
