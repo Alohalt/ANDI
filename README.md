@@ -3,13 +3,13 @@
 
 This is implementation of ANDI: a Joint Disambiguation Framework Integrating Author Name Disambiguation Goals.
 
-In the competition [WhoIsWho:Name Disambiguation from Scratch](https://www.biendata.xyz/competition/whoiswho1/final-leaderboard/) our method got the best results!
-
 
 ![Framework](/ANDI.png)
 
 ## Datasets
 Aminer-v3: https://www.aminer.cn/whoiswho
+
+In the [WhoIsWho:Name Disambiguation from Scratch(Aminer-v3)](https://www.biendata.xyz/competition/whoiswho1/final-leaderboard/) our method got the best results!
 
 Aminer-na: https://static.aminer.cn/misc/na-data-kdd18.zip
 
