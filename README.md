@@ -2,6 +2,7 @@
 
 
 This is implementation of ANDI: a Joint Disambiguation Framework Integrating Author Name Disambiguation Goals.
+
 In the competition [WhoIsWho:Name Disambiguation from Scratch](https://www.biendata.xyz/competition/whoiswho1/final-leaderboard/) our method got the best results!
 
 
